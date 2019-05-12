@@ -45,6 +45,9 @@
         <plugin interceptor="com.github.pagehelper.PageInterceptor">
 
         </plugin>
+        <plugin interceptor="com.dingdang.plugin.LogInterceptor">
+
+        </plugin>
     </plugins>
 
     <environments default="development">
