@@ -1,4 +1,5 @@
-mybatis中用到了哪些设计模式？
+###mybatis中用到了哪些设计模式？
+
 1.Builder模式
 SqlSessionFactoryBuilder
 XmlConfigBuilder
